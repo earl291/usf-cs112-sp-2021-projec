@@ -1,5 +1,24 @@
 package Class0128;
 
+/*
+ * Hi Earl, it's me, Jackson, and here's a joke:
+ *
+ * How much room do fungi need to grow?
+ *
+ * As mushroom as possible!
+ *
+ * I hope you enjoyed my lame joke, also, in case you get stuck in vi again, here are a few helpful shortcuts:
+ * i gets you into insert (edit) mode
+ * esc gets you out into normal mode, where you can type commands like
+ * :w which writes (saves)
+ * :q which quits (exits to terminal)
+ * :q! which quits without saving
+ * :wq which saves and exits
+ *
+ * I hope that these come in handy!
+ * -Jackson
+ */
+
 public class Pokemon implements Comparable<Pokemon>
 {
 	 // Can only be accessed by the inherited class
